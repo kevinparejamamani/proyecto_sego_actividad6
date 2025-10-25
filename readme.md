@@ -1,9 +1,13 @@
-Grupo: 4
+Grupo 4
 
-Nombre del proyecto: Ecommerces - Segp
+Nombre del proyecto: E-commerce – SEGp
 
-Nombre del grupo: 
-    Fernando Jose Carbajal Carbajal
-    Manuel Alonso López Rodríguez
-    Kevin Pareja Mamani
-    Flores Huamani Anita Maritza
+Integrantes del grupo:
+
+Fernando José Carbajal Carbajal
+
+Manuel Alonso López Rodríguez
+
+Kevin Pareja Mamani
+
+Anita Maritza Flores Huamani
